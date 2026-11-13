@@ -61,7 +61,6 @@ try:
         print("Conteúdo lido pelo readLines(): ")
         print(repr(contentLines))
 
-
         # -------------------------------------------------------------
         # 3. Inspeção de Caminhos (Módulo os.path)
         # -------------------------------------------------------------
